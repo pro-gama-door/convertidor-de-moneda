@@ -1,2 +1,6 @@
-package com.aluracursos.convertidordemoneda;public class calculos {
+package com.aluracursos.convertidordemoneda;
+
+public class Calculos {
+
+    
 }
